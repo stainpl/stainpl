@@ -3,7 +3,7 @@
   <img src="/hello.gif" alt="Banner" width="600"/>
 </p>
 
-<h3 align="center">Hi there, I’m Silas<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
+<h3 align="center">Hi there, I’m Silas</h3>
 <p align="center">🚀 MERN & Python Developer | FastAPI & Next.js Explorer | Crafting thoughts into clean, functional designs.</p>
 
 ---
