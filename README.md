@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Hi there, I’m Silas</h3>
-<p align="center">🚀 MERN & Python Developer | FastAPI & Next.js Explorer | Crafting thoughts into clean, functional designs.</p>
+<p align="center">🚀 MERN  & Next.js Explorer | Crafting thoughts into clean, functional designs.</p>
 
 ---
 
