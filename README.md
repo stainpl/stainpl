@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">Hi there, I’m Silas</h3>
-<p align="center">🚀 MERN  & Next.js Explorer | Crafting thoughts into clean, functional designs.</p>
+<p align="center"> MERN  & Next.js Explorer | Crafting thoughts into clean, functional designs.</p>
 
 ---
 
@@ -18,8 +18,6 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white" alt="TailwindCSS"/>
   <img src="https://img.shields.io/badge/SQL-005CDB?logo=mysql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"/>
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"/>
 </p>
@@ -29,9 +27,8 @@
 ## 📖 About Me
 
 - 🔭 I’m currently learning **MERN Stack** (MongoDB, Express, React, Node) and **Python**.  
-- 🌱 Exploring **FastAPI**, **Next.js**, and advanced SQL queries.  
-- 💡 I believe in **crafting thoughts into clean, functional designs**.  
-- ⚡ Fun fact: I love turning complex problems into simple, elegant solutions.
+- 🌱 Exploring **React**, **Next.js**, and advanced SQL queries.  
+
 
 ---
 
