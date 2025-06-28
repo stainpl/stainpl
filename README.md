@@ -22,15 +22,15 @@
 
 ---
 
-## 📖 About Me
+##  About
 
-- 🔭 I’m currently learning **MERN Stack** (MongoDB, Express, React, Node) and **Python**.  
-- 🌱 Exploring **React**, **Next.js**, and advanced SQL queries.  
+-  I’m currently learning **MERN Stack** (MongoDB, Express, React, Node) and **Next.js**.  
+ 
 
 
 ---
 
-## 🚧 Projects
+## Recent Projects
 
 | Project | Description | Tech Stack | Link |
 | :-----: | :---------: | :--------: | :--: |
