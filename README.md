@@ -1,10 +1,8 @@
 
-<p align="center">
-  <img src="/hello.gif" alt="Banner" width="600"/>
-</p>
 
-<h3 align="center">Hi there, I’m Silas</h3>
-<p align="center"> MERN  & Next.js Explorer | Crafting thoughts into clean, functional designs.</p>
+
+<h3 align="center">Hi , I’m Silas</h3>
+<p align="center"> React & Next.js Developer.</p>
 
 ---
 
@@ -36,13 +34,13 @@
 
 | Project | Description | Tech Stack | Link |
 | :-----: | :---------: | :--------: | :--: |
-| **MyApp** | A sample MERN application with user auth, CRUD, and REST APIs. | MERN | [Repo](https://github.com/yourusername/myapp) |
-| **HymnApp** | React Native hymn book app with search and donation page. | React Native, Python | [Repo](https://github.com/yourusername/hymnapp) |
+| **Paystack Payment Demo** | A simple demo on how to accept payments with Paystack in a Next.js app, verify transactions server-side, and show real-time payment status to users with flash messages. | [Repo] (https://github.com/stainpl/paystack-nextjs-typescript) |
+| **HymnApp** | React Native hymn book app with search and donation page. | React Native,  | [Repo](https://github.com/yourusername/hymnapp) |
 | **Wire2Code** | AI-powered UI wireframe → React + Tailwind generator. | Next.js, OpenAI API | [Repo](https://github.com/yourusername/wire2code) |
 
 ---
 
-## 📫 How to Reach Me
+## Hire me
 
 <p align="center">
   <a href="mailto: 9shila@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/></a>
