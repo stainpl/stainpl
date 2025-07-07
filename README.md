@@ -28,15 +28,7 @@
  
 
 
----
 
-## Recent Projects
-
-| Project | Description | Tech Stack | Link |
-| :-----: | :---------: | :--------: | :--: |
-| **Paystack Payment Demo** | A simple demo on how to accept payments with Paystack in a Next.js app, verify transactions server-side, and show real-time payment status to users with flash messages. | Next.js/ TailwindCSS | [Repo](https://github.com/stainpl/paystack-nextjs-typescript) |
-| **HymnApp** | React Native hymn book app with search and donation page. | React Native,  | [Repo](https://github.com/yourusername/hymnapp) |
-| **Wire2Code** | AI-powered UI wireframe → React + Tailwind generator. | Next.js, OpenAI API | [Repo](https://github.com/yourusername/wire2code) |
 
 ---
 
