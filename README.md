@@ -9,7 +9,7 @@ I’ve been building end‑to‑end web solutions for the past three years, leve
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [My Portfolio](http://silaspilar.vercel.app/)
 * ✉️  You can contact me at [9shila@gmail.com](mailto:9shila@gmail.com)
-* 🚀  I'm currently working on [Hostel-Management App](http://silaspppr.vercel.app/)
+* 🚀  I'm currently working on [Hostel-Management App](https://redesigned-hstel.vercel.app/)
 * 🧠  I'm learning Java
 * 🤝  I'm open to collaborating on I’m open to collaborating on ambitious web and cloud‑native projects in; React, Next.js, Express.js, Spring/Spring Boot, JavaScript, Java, Node.js, MySQL, SQLite, PostgreSQL, and MongoDB.
 
